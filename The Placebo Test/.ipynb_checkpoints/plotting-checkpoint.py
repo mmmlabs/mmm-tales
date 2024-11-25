@@ -65,13 +65,13 @@ def calculate_contributions(df, coefs):
     # Calculate the contributions of each variable
     contributions = {var: coefs[var] * df[var].sum() for var in coefs.keys()}
     
-    # Calculate total contributions
-    total_contributions = sum(contributions.values())
+    # # Calculate total contributions
+    # total_contributions = sum(contributions.values())
     
-    # Calculate contributions as percentages
-    contributions_pct = {k: (v / total_contributions) * 100 for k, v in contributions.items()}
+    # # Calculate contributions as percentages
+    # contributions_pct = {k: (v / total_contributions) * 100 for k, v in contributions.items()}
     
-    return contributions_pct
+    return contributions
     
 def plot_multi_model_contributions(contributions_pct, df_columns, model_name="Model"):
     """
