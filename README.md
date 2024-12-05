@@ -11,6 +11,13 @@ Welcome to the MMM Labs repository! This repository contains a collection of tec
    <!-- **[Read the article on LinkedIn]()**, --> 
    **[Open Jupyter Notebook](https://github.com/mmmlabs/mmm-tales/blob/main/The%20Placebo%20Test/True%20Incrementality%20and%20Causality.ipynb)** 
 
+### 2. **Capturing Delayed Advertising Effects**
+
+   Discover how modern Marketing Mix Modeling (MMM) techniques, like the Weibull transformation, revolutionize the way advertisers measure delayed and long-lasting effects of their campaigns. Perfect for campaigns with prolonged impacts, the Weibull transformation offers unparalleled flexibility for real-world scenarios.
+   
+   <!-- **[Read the article on LinkedIn]()**, --> 
+   **[Open Jupyter Notebook](https://github.com/mmmlabs/mmm-tales/blob/main/Weibull%20Vs%20Geometric/Weibull%20vs%20Geometric%20Advertising%20Effects.ipynb)** 
+
 ---
 
 Stay tuned for updates!
